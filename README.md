@@ -6,12 +6,12 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/767502316462931969?theme=black&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=ROOT)](https://discord.com/users/153490292081819648)
 
-<!--![Contribution](https://activity-graph.herokuapp.com/graph?username=DGS1337&theme=gotham&hide_border=true&area=true)-->
+<!--![Contribution](https://activity-graph.herokuapp.com/graph?username=Blackwave1337&theme=gotham&hide_border=true&area=true)-->
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DGS1337&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="DGS1337 github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGS1337&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Blackwave1337&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Blackwave1337 github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackwave1337&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 
